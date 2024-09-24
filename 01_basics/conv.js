@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 // let score="33abs"
-=======
+
 let score="33abc"
->>>>>>> b5cd7f50ac30f5800041d577e2a4f93ca7255dd0
+
 
 // // console.log(typeof score);
 // // console.log(typeof(score));
