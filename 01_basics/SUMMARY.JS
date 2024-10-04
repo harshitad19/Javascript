@@ -2,4 +2,5 @@
 //7 type
 //string , big int, boolean, number, undefined,null,symbol
 let a=10;
-let a=100;
+let ab=100;
+let abc=100;
